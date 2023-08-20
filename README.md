@@ -7,4 +7,3 @@
 <!---
 Maryfania/Maryfania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/84999897643680708332453567899742461055507664082455019931353660822576238166017/
